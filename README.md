@@ -94,5 +94,5 @@ Encerramento
 Que a paz de Deus, que excede todo entendimento, guarde os vossos corações e mentes em Cristo Jesus. Que possamos sair daqui hoje renovados na nossa esperança e firmes na fé que temos no nosso Salvador.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As IA's vieram para ajudar, melhorar e oferecer produtividade para todas as pessoas que tenham interesse em aprender a manuseá-las. Eu tenho grande dificuldade em montar sermão, estou melhorando, mas a IA tem me ajudado muito a entender e melhorar a mensagem que quero transmitir.
 ```
